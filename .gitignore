@@ -1,0 +1,6 @@
+.vscode/
+database_features_*.npy
+query_features_*.npy
+results/
+centers/
+pickle/
